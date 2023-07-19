@@ -8,7 +8,7 @@ for(item of btn){
             btntext='*';
         }
         if(btntext=='+'){
-            btntext='/';
+            btntext='+';
         }
         screen.value+=btntext;
 
